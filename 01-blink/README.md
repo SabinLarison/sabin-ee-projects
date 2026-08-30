@@ -5,6 +5,7 @@ First Arduino project. Used a breadboard, an LED, a 330 Ω resistor, 2 jumper wi
 LED connected to pin 12 through the resistor, blinks on/off every second.
 
 See [blink.ino](./blink.ino) for the code.
+See ![Blink circuit](./circuit.jpg) for the picture.
 
 ## What I learned
 - `setup()` runs once, `loop()` runs continuously
