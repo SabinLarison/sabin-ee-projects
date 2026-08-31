@@ -28,7 +28,7 @@ void loop() {
 ## What I learned
 - Order and pairing of `digitalWrite()` calls matters — turning one pin HIGH before setting the other LOW creates a brief state where both are on
 - Tracing through code with a timeline (what's HIGH/LOW at each second) is the fastest way to catch logic bugs before ever touching the breadboard
-- A "working" circuit (LEDs blinking) can still be wrong if the *pattern* doesn't match what you actually intended
+- A "working" circuit (LEDs blinking) can still be wrong if the pattern doesn't match what you actually intended
 
 ## Next step
 Rewrite this using `millis()` instead of `delay()`, then add a button to change the blink speed without blocking the rest of the program.
