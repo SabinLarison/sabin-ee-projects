@@ -2,7 +2,7 @@
 
 Two LEDs (pins 12 and 8) blinking in an alternating pattern using `digitalWrite()` and `delay()`.
 
-<img src="./LED12ON.jpg" width="500">
+<img src="./LED12ON.jpg" width="400"> <img src="./LED8ON.jpg" width="400">
 
 ## v1 — first attempt
 See [two-led-alternate-v1.ino](./two-led-alternate-v1.ino)
