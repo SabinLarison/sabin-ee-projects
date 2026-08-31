@@ -33,4 +33,4 @@ void loop() {
 - A "working" circuit (LEDs blinking) can still be wrong if the pattern doesn't match what you actually intended
 
 ## Next step
-Rewrite this using `millis()` instead of `delay()`, then add a button to change the blink speed without blocking the rest of the program.
+Add a potentiometer so I can control how fast the LEDs alternate in real time, instead of a fixed 1000ms delay hardcoded in the sketch. This would be my first project using analogRead() and real-time input instead of just fixed outputs.
