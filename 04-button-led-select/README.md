@@ -23,3 +23,4 @@ See [button-led-select.ino](./button-led-select.ino) for the code.
 
 ## Next step
 Add a third LED and cycle through all three with the button instead of just toggling between two, which would require tracking active state as a number/index instead of just swapping between two fixed pins.
+Some better cable management somehow!
